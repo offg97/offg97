@@ -20,6 +20,6 @@
 ![Apache Spark](https://img.shields.io/badge/-apachespark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
 
 <div align="center"> 
-<a href = "mailto:gustavorochamdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:ofelipeferrarig@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipe-ferrari-lopes-93b443137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
