@@ -9,8 +9,7 @@
  
  ### Main skills:
 ![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=00fff7&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FFA500&labelColor=0D1117)&nbsp;
+
 
 
 ### Studying in this moment:
