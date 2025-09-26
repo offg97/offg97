@@ -34,7 +34,7 @@ Em construção.
 
 *   Estou sempre aberto a colaborar em projetos inovadores de **geotecnologia e ciência de dados**.
 *   Me mande um e-mail: [ofelipeferrarig@gmail.com](mailto:ofelipeferrarig@gmail.com)
-*   Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/oferrarilopesg/) (***CRIAR/ATUALIZAR É MUITO IMPORTANTE***)
+*   Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/oferrarilopesg/)
 *   Portfólio: [Em construção]
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=offg97&theme=github-compact) <!-- Opcional: gráfico de contribuições -->
